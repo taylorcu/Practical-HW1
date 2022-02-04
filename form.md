@@ -2,35 +2,35 @@
 
 ## Step 1.1:
 
-* Address of account A: 
-* Address of account B: 
+* Address of account A: 2QIZGNSAU6J5XKIMY2IA6ZXU5MBOHGRCQEGJ7LK5PWWOLGOWAEEQ3QIDAY
+* Address of account B: SBXI6T5ILZZEGFMGOIAAEUM667XGCKHWK5UZLE7CSYQ3VOGMUA2LIHLM4E
 
 ## Step 2:
 
-* Transaction ID from account A: 
-* Transaction ID from account B: 
+* Transaction ID from account A: ONQHJPAOK2VHCGLEOKA4T5ZKPXOFOX3R2WSIK5I5ZMV3DLMFV6JQ
+* Transaction ID from account B: VHZYANZCAJ4PLIS3U3EUOXVVKIMV25LABMFRSCISDDB7UXI2PODA
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 68716719
+* Name of the asset: sugarcookie
 
 ## Step 3.2:
 
-* Transaction ID for opt-in of account B:
+* Transaction ID for opt-in of account B: UUWWT7OLLIBAHMHUOHGPZFVTX3ZRDY2FFIDOVXMKL37J7XQBW4UQ
 
 ## Step 3.3:
 
-* Transaction ID for transfer of asset from A to B:
+* Transaction ID for transfer of asset from A to B: QCSZTRMQEOVQZDMXWGKL4YM2YTQZ7MAVGGSEOTZDUGWDZPSYG7TA
 
 ## Step 4:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: ONIITPZXPY2YODQWO6YTSO4HT53SEHZHWGTQAY3IGK6FEDISEA6Q
 
 ## Step 5.1:
 
-* Transaction ID for opt-in of account A:
+* Transaction ID for opt-in of account A: 6EUNLEK3CO5CA3HGF2X5JH4TITHLCUS5UWNA3ZQ5W2WJ6XKGBICA
 
 ## Step 5.2:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: IKCYV2Y356G746CD7C5NQOKMS5OPEGSFEN5EPE4NTR6ZAJEVHHVA
